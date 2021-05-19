@@ -1,0 +1,8 @@
+[submodule "deoldify"]
+	path = deoldify
+	url = https://github.com/jantic/DeOldify
+    ignore = dirty
+[submodule "tensorflow_models"]
+	path = tensorflow_models
+	url = https://github.com/tensorflow/models
+    ignore = dirty
