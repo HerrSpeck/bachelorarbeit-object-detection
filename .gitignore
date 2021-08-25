@@ -9,6 +9,8 @@
 *.html
 *.png
 *.jpg
+*.svg
+*.csv
 *.ipynb_checkpoints
 *:Zone.Identifier
 *.pth
