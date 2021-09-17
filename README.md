@@ -60,3 +60,18 @@ https://www.dropbox.com/s/usf7uifrctqw9rl/ColorizeStable_gen.pth?dl=1
 The font size of the displayed categories on detected objects can be changed:  
 [Change font size](https://stackoverflow.com/questions/47242183/customizing-tf-object-detection-bounding-box-thickness-label-font-size) (last answer)
 
+## Study results
+Settings required to reproduce statistics sheet that works with the code given in the jupyter notebook.
+ - Output Format: csv
+ - All responses
+ - Langauge: English
+ - Range: Use default
+ - Responses: Full answers
+
+### Object Detection
+ - Question export: Question Code
+ - Questions: Everything with (Accuracy of Detection)
+
+### User background
+ - Question export: Full question text
+ - Questions: lastpage, G01Q35 - G01Q37

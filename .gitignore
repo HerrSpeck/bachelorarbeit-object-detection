@@ -12,6 +12,7 @@
 *.svg
 *.pgf
 *.csv
+*.csv#
 *.ipynb_checkpoints
 *:Zone.Identifier
 *.pth
