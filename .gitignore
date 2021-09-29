@@ -17,3 +17,6 @@
 *:Zone.Identifier
 *.pth
 *.idea
+*.npy
+*.ttl
+*.json
