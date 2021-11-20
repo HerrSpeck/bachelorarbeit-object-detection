@@ -20,3 +20,6 @@
 *.npy
 *.ttl
 *.json
+!outputs/statistics/rdf.ttl
+!outputs/statistics/mapped_entities.csv
+!outputs/statistics/mapped_entities corrected.csv
